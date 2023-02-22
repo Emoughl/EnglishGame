@@ -1,0 +1,87 @@
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Game.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Play.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Guide.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Login.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.LostPass.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.menu.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Registration.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Information.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.HighScore.resources
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Music.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Facebook.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Instagram.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Twistter.resources
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.Dictionary.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\bin\Debug\Test.exe
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\bin\Debug\Test.pdb
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Dictionary.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Facebook.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Game.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Guide.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Highscore.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Information.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Instagram.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Login.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.LostPass.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.menu.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Music.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Play.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Registration.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.Twistter.resources
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.exe
+C:\Users\Admin\Desktop\Đồ Án Cơ Sở\Test\Test\obj\Debug\Test.pdb
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Test\Test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Dictionary.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Facebook.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Game.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Guide.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Highscore.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Information.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Instagram.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Login.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.LostPass.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.menu.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Music.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Play.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Registration.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.Twistter.resources
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\Admin\Desktop\Test\Test\obj\Debug\Test.pdb

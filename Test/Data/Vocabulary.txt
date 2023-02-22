@@ -1,0 +1,10 @@
+﻿Child :Con cái Dog:Con chó
+Bear:Gấu
+Hedgehog:Con nhím
+Hedgehog:Con nhím
+Donkey:Con lừa
+
+Pigeon:Bồ câu
+
+Ladybug:Con bọ rùa
+Parasites:Sâu ăn lá
