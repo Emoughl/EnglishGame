@@ -13,11 +13,14 @@
 -Chức năng lưu từ điển : lưu lại từ chọn sai để ôn học
 
 Hình ảnh về game
-Giao diện chơi               
-[image](https://user-images.githubusercontent.com/99796088/220863957-19a994cf-3d33-4b58-a606-dfb2b3f757f5.png)
+Giao diện chơi
+
+![image](https://user-images.githubusercontent.com/99796088/220991267-e9f62c6c-227f-4686-af21-5ba470f7b0ff.png)
 Form Đăng Ký
+
 ![image](https://user-images.githubusercontent.com/99796088/220990593-4af2652e-02df-481f-854e-7750789ebe89.png)
 Form đăng nhập
+
 ![image](https://user-images.githubusercontent.com/99796088/220990626-3aff5c24-3d4c-40c1-acd3-e55a6c0acfb3.png)
 ![image](https://user-images.githubusercontent.com/99796088/220990645-1be7e279-6526-4aad-91cc-50dddb1e1b33.png)
 *Giao diện Phụ 
