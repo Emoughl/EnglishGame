@@ -16,12 +16,10 @@ Hình ảnh về game
 Giao diện chơi               
 [image](https://user-images.githubusercontent.com/99796088/220863957-19a994cf-3d33-4b58-a606-dfb2b3f757f5.png)
 Form Đăng Ký
-![image](https://user-images.githubusercontent.com/99796088/220989208-a557344c-9576-4bc1-8312-1cce08802130.png)
-![image](https://user-images.githubusercontent.com/99796088/220989269-a4261cec-055a-40e9-b00c-43abe372d760.png)
+![image](https://user-images.githubusercontent.com/99796088/220990593-4af2652e-02df-481f-854e-7750789ebe89.png)
 Form đăng nhập
-![image](https://user-images.githubusercontent.com/99796088/220989330-eb3be567-8003-4a23-90d9-1f8b4137f44d.png)
-![image](https://user-images.githubusercontent.com/99796088/220989367-ce3f985a-0db4-46e8-a673-7c305ed014f7.png)
-![image](https://user-images.githubusercontent.com/99796088/220989402-e2696122-0f47-45e6-8ed0-f1e78fe76e27.png)
+![image](https://user-images.githubusercontent.com/99796088/220990626-3aff5c24-3d4c-40c1-acd3-e55a6c0acfb3.png)
+![image](https://user-images.githubusercontent.com/99796088/220990645-1be7e279-6526-4aad-91cc-50dddb1e1b33.png)
 *Giao diện Phụ 
 Thoát Chương Trình
 ![image](https://user-images.githubusercontent.com/99796088/220989597-4280b1aa-54f2-4856-b192-449936f843ae.png)
